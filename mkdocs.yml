@@ -1,0 +1,11 @@
+site_name: Arquebuse Project
+repo_url: https://github.com/arquebuse
+repo_name: Arquebuse
+site_url: https://arquebuse.github.io
+site_description: Arquebuse is an open-source notification system for Windows desktop users.
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+extra_css:
+  - stylesheets/extra.css

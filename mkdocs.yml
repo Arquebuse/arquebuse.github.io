@@ -7,5 +7,10 @@ theme:
   name: material
   logo: img/logo.png
   favicon: img/favicon.ico
+markdown_extensions:
+  - sane_lists
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
 extra_css:
   - stylesheets/extra.css
